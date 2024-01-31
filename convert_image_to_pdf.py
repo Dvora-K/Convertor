@@ -1,4 +1,6 @@
-
+import sys
+import img2pdf
+import os
 pdfname = os.getenv("PDF_NAME", default="output.pdf")
 
 filepath = sys.argv[1]
