@@ -1,11 +1,11 @@
 # convertor
-    A script that converts from an image to a PDF file
+A script that converts from an image to a PDF file
 
 ## DOWNLOAD
     git clone https://github.com/Dvora-K/Exam.git
 ## BUILD
 
-    you can insert image name from you to IMAGE_NAME
+you can insert image name from you to IMAGE_NAME
     
     docker build -t IMAGE_NAME .
 ## RUN
